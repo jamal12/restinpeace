@@ -1,0 +1,1 @@
+A simple android based open source mobile application that will let a user search for Church, Mosque, or Temple in and around a given radius. Studies show that religious centers play a key role in spreading world peace as one finds relaxed environment in these religious places. The app can be extended to allow other religions too.
